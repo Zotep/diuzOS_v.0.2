@@ -1,1 +1,1 @@
-# diuzOS v.0.2
+# diuzOS version 0.2
